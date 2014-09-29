@@ -5,7 +5,7 @@ mush space is the song writen in SuperCollider3.
 Source code is released under the MIT License.
 
 
-####[nush space on sound cloud](https://soundcloud.com/moxus/mush-space)
+####[mush space on sound cloud](https://soundcloud.com/moxus/mush-space)
 
 ##install
 
