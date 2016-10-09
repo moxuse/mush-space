@@ -12,6 +12,8 @@ Source code is released under the MIT License.
 ####sounds
 Copy sound files into your 'Platform's Resource/sounds' folder.
 
+***If you use Floppy Distribution, Please run download_sounds.sh on your terminal.***
+
 ####src/mush-space-v1.0.sc
 
 Open and run with SuperCollider
